@@ -1,0 +1,67 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Bangalore",
+      "rating": "4.9",
+      "email": "pizzahut@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "Mumbai",
+      "rating": "4.2",
+      "email": "dominos@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "address": "Pune",
+      "rating": "4.9",
+      "email": "kfc@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Naturals",
+      "address": "Kolkata",
+      "rating": "4.8",
+      "email": "nature@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Aminia",
+      "address": "Kerala",
+      "rating": "4.2",
+      "email": "aminia@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "McDonalds",
+      "address": "Chennai",
+      "rating": "4.5",
+      "email": "mc@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Haldiram",
+      "address": "Delhi",
+      "rating": "3.9",
+      "email": "haldiram@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Wow Momo",
+      "address": "Noida",
+      "rating": "4.4",
+      "email": "wow@gmail.com"
+    },
+    {
+      "name": "Cafe Coffee Day",
+      "address": "Pune",
+      "rating": "4.2",
+      "email": "ccd@gmail.com",
+      "id": 9
+    }
+  ]
+}

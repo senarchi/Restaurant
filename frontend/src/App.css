@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+span{
+  padding: 5px;
+  margin: 5px;
+  background-color: #61dafb;
+  display: inline-block;
+}
 
 .App-logo {
   height: 40vmin;
